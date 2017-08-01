@@ -1,4 +1,4 @@
-require './questions'
+require './question'
 require './game'
 require './player'
 
